@@ -1,0 +1,1 @@
+dodajem novi tekst u okviru nove grane "new-branch"
